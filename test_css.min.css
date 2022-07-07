@@ -38,6 +38,7 @@
 .coinmarketcap-widget-marquee {
     position: sticky;
     top: 0;
+    padding 100;
     
 }
 
