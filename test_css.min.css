@@ -7641,8 +7641,4 @@ a.text-dark:hover {
     visibility: hidden !important;
 }
 
-#coinmarketcap-widget-marquee {
-  position: sticky;
-  top: 0px;
-}
 /*# sourceMappingURL=bootstrap.min.css.map */
