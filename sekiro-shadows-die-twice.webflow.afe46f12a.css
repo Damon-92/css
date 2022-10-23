@@ -51,7 +51,7 @@ h4 {
   margin-top: 10px;
   margin-bottom: 10px;
   font-family: 'Another danger', sans-serif;
-  color: #d73737;
+  color: #328ac1;
   font-size: 2em;
   line-height: 1.2em;
   font-weight: 400;
@@ -69,7 +69,7 @@ h5 {
 h6 {
   margin-top: 10px;
   margin-bottom: 10px;
-  color: #d73737;
+  color: #328ac1;
   font-size: 0.8em;
   line-height: 1em;
   font-weight: 700;
@@ -303,7 +303,7 @@ img {
 
 .section.midtone {
   height: auto;
-  background-color: #d73737;
+  background-color: #328ac1;
 }
 
 .section.midtone.bg1 {
@@ -343,12 +343,12 @@ img {
 .btn {
   margin-right: 3px;
   margin-left: 3px;
-  background-color: #d73737;
+  background-color: #328ac1;
 }
 
 .btn:hover {
   background-color: #fff;
-  color: #d73737;
+  color: #328ac1;
 }
 
 .white-heading {
@@ -518,7 +518,7 @@ img {
 }
 
 .red-heading {
-  color: #d73737;
+  color: #328ac1;
 }
 
 .ps4-img {
@@ -600,7 +600,7 @@ img {
 
 .game-of-the-year-span {
   font-family: Gangofthree, sans-serif;
-  color: #d73737;
+  color: #328ac1;
   font-size: 2em;
   font-weight: 400;
 }
@@ -764,7 +764,7 @@ img {
   height: 140%;
   margin-top: -20%;
   margin-left: -20%;
-  background-color: #d73737;
+  background-color: #328ac1;
   -webkit-transform: rotate(10deg);
   -ms-transform: rotate(10deg);
   transform: rotate(10deg);
@@ -786,7 +786,7 @@ img {
   top: auto;
   right: 0%;
   bottom: 27%;
-  color: #d73737;
+  color: #328ac1;
   text-align: center;
 }
 
@@ -805,7 +805,7 @@ img {
 }
 
 .explore-site:hover {
-  color: #d73737;
+  color: #328ac1;
 }
 
 .explore-bg {
@@ -931,7 +931,7 @@ img {
 }
 
 .buy-link:hover {
-  color: #d73737;
+  color: #328ac1;
 }
 
 .buy-link.footer-link {
@@ -998,7 +998,7 @@ img {
   height: 160%;
   margin-top: -4%;
   margin-left: 6%;
-  background-color: #d73737;
+  background-color: #328ac1;
   -webkit-transform: rotate(-10deg);
   -ms-transform: rotate(-10deg);
   transform: rotate(-10deg);
@@ -1354,7 +1354,7 @@ img {
   -ms-flex-align: center;
   align-items: center;
   font-family: 'Another danger slanted', sans-serif;
-  color: #d73737;
+  color: #328ac1;
   font-size: 3em;
   letter-spacing: 1px;
 }
@@ -1370,7 +1370,7 @@ img {
 }
 
 .bloodborne-handle.mobile:hover {
-  background-color: #d73737;
+  background-color: #328ac1;
   color: #fff;
 }
 
@@ -1406,7 +1406,7 @@ img {
 }
 
 .darksouls-handle.mobile:hover {
-  background-color: #d73737;
+  background-color: #328ac1;
   color: #fff;
 }
 
@@ -1617,7 +1617,7 @@ img {
   -ms-transform: translate(0px, -100px);
   transform: translate(0px, -100px);
   font-family: 'Another danger', sans-serif;
-  color: #d73737;
+  color: #328ac1;
   font-size: 3vw;
   letter-spacing: 2px;
 }
@@ -1666,7 +1666,7 @@ img {
 .menu-line {
   width: 100%;
   height: 4px;
-  background-color: #d73737;
+  background-color: #328ac1;
 }
 
 .pieces-slider__canvas {
@@ -1705,7 +1705,7 @@ img {
 }
 
 .warning-heading {
-  color: #d73737;
+  color: #328ac1;
   text-align: center;
 }
 
